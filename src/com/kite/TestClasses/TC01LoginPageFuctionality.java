@@ -31,7 +31,7 @@ public class TC01LoginPageFuctionality
 		System.out.println("5. password entered");
 		lp.setlogin();
 		System.out.println("6.click on login button");
-		
+		System.out.println("7.Successfully login");
 		
 	}
 }
